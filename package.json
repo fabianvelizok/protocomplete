@@ -1,0 +1,24 @@
+{
+  "name": "protocomplete",
+  "version": "0.1.0",
+  "description": "A Pro Autocomplete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianvelizok/protocomplete.git"
+  },
+  "keywords": [
+    "javascript",
+    "autocomplete",
+    "js"
+  ],
+  "author": "Fabián Veliz <velizfabianhoracio@gmail.com> (https://twitter.com/fabianvelizok)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabianvelizok/protocomplete/issues"
+  },
+  "homepage": "https://github.com/fabianvelizok/protocomplete#readme"
+}
